@@ -1,0 +1,1 @@
+window.calculator = new CalcController();//instânciando um objeto da classe CalcController
